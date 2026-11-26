@@ -59,3 +59,5 @@ Antes de realizar o `git push`, certifique-se de que os seguintes artefatos loca
 * `__pycache__/` e `*.pyc` (bytecode compilado do Python)
 * `.pytest_cache/` (cache local de execução de testes)
 * `.env` (eventuais variáveis de ambiente)
+
+projeto apresentado em 24 de nov de 2026 no 8ºperiodo de sistema de informação 
